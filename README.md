@@ -19,4 +19,4 @@ This is a simple quiz program written in C++ that allows users to answer multipl
 1. Clone the repository:
 
    ```bash
-   git clone <repository_url>
+   git clone (https://github.com/ganeshmedichelimala/quiz_game.git)
